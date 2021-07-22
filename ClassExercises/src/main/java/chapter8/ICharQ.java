@@ -9,6 +9,12 @@ package chapter8;
  *
  * @author Jaco
  */
-public class Example8_15 {
-    
+
+//8_13
+public interface ICharQ {
+  // Put a characer into the queue.    
+  void put(char ch); 
+ 
+  // Get a character from the queue.   
+  char get(); 
 }

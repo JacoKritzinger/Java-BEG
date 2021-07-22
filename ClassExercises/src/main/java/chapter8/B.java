@@ -9,6 +9,9 @@ package chapter8;
  *
  * @author Jaco
  */
-public class Example8_17 {
-    
+
+//8_19
+
+public interface B extends A { 
+  void meth3(); 
 }

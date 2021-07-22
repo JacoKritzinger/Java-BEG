@@ -10,5 +10,5 @@ package chapter8;
  * @author Jaco
  */
 public class Example8_13 {
-    
+//ICharQ interface created  
 }

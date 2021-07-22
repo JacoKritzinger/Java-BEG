@@ -9,6 +9,8 @@ package chapter8;
  *
  * @author Jaco
  */
-public class Example8_7 {
-    
-}
+//public class Example8_7 {
+//  int getNext(); // return next number in series 
+//  void reset(); // restart 
+//  void setStart(int x); // set starting value 
+//}
