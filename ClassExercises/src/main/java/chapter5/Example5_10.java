@@ -12,7 +12,7 @@ package chapter5;
 public class Example5_10 {
   public static void main(String args[]) {  
     int list[] = new int[10];  
-    int nums[] = { 1, 2, 3 };  
+    int nums[] = { 1, 2, 3};  
     int table[][] = { // a variable-length table  
       {1, 2, 3},  
       {4, 5},  
